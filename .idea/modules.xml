@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DigitalZoom_Panning.iml" filepath="$PROJECT_DIR$/DigitalZoom_Panning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/digitalzoomandpan/digitalzoomandpan.iml" filepath="$PROJECT_DIR$/digitalzoomandpan/digitalzoomandpan.iml" />
+    </modules>
+  </component>
+</project>
